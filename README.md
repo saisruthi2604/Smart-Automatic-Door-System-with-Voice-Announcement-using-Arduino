@@ -64,12 +64,3 @@ After a predefined delay, the motor rotates in the opposite direction to simulat
 - Add IoT-based monitoring and remote access.
 - Integrate access control and security features.
 
-*Note: Face recognition and personalized voice announcements are proposed future enhancements and are not part of the current prototype.*
-
-## 📚 Learning Outcomes
-
-Through this project, I gained practical experience in Arduino programming, IR sensor interfacing, motor control using an L298N driver, and audio playback using the DFPlayer Mini module.
-
-## 🙏 Acknowledgement
-
-I would like to thank my mentor, Basha Sir, for his valuable guidance and my teammates for their support throughout this project.
